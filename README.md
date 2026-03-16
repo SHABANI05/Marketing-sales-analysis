@@ -23,5 +23,8 @@ department performance, and holiday sales patterns.
 - Holiday weeks show higher average sales.
 - Sales vary across months indicating seasonal demand.
 
+- ## Sales trend charts
+- ![sales charts](sales_chart.png)
+
 ## Author
 Shabani Mtaki
