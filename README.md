@@ -12,9 +12,11 @@ department performance, and holiday sales patterns.
 - Google Colab
 
 ## Analysis Performed
-- Sales by store
-- Sales by department
+- Store sales trend
+- Department sales trend
+- Top store sales and top department sales
 - Holiday vs non-holiday sales
+- Sales in holiday week and non holiday week
 - Monthly sales trends
 
 ## Key Insights
@@ -23,8 +25,6 @@ department performance, and holiday sales patterns.
 - Holiday weeks show higher average sales.
 - Sales vary across months indicating seasonal demand.
 
-- ## Sales trend charts
-- ![sales charts](sales_chart.png)
 
 ## Author
 Shabani Mtaki
